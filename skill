@@ -1,2 +1,22 @@
-\quirk mode
-https://developer.mozilla.org/zh-TW/docs/Web/HTML/Quirks_Mode_and_Standards_Mode
+\css
+transform: rotate
+transition: all 1s ease;
+
+\js
+ <!-- 
+ const buttons = document.querySelectorAll(".button")
+ buttons.forEach((button, i) => {} 
+ -->
+
+ <!-- 
+ const div = document.createElement("div")
+ div.className = "button";
+ bottom.appendChild(div) 
+ -->
+
+right.addEventListener("click", ()=>{
+  slider.style.transform = `translateX(-500pxk)`
+})
+
+\時間
+https://youtu.be/uDeb2iwZMkA?t=1114
